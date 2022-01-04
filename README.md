@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Programmer, Robotics, AI/ML, Django, Python, etc.
 - ⚡ Fun fact: Computer was a job title, and the first programmers were women
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSingh46&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSingh46)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSingh46&show_icons=true&theme=merko)
