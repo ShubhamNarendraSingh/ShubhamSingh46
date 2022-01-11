@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSingh46)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSingh46&show_icons=true&theme=merko)
+
+![Visitor Count](https://profile-counter.glitch.me/{ShubhamSingh46}/count.svg)
