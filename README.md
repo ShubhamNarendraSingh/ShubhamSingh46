@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Studying in Third Year Computer Engineering.
+- 🔭 I’m currently Studying in Final Year Computer Engineering.
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Projects to gain more skills and be more confident on communication skills.
 - 🤔 I’m looking for help with being a collaborator and give my best to work with best.
